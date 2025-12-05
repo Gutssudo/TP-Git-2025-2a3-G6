@@ -1,4 +1,3 @@
-qsoudhqsiudhjqsiouhdq
 zaed
-qsiudhqisudhqiushd
 zaed2
+tp.md de Tim
