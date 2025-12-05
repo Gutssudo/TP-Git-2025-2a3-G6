@@ -1,4 +1,3 @@
 tp.md de Tim
-adzazd
-adzazdaz
-adzazdazd
+zaed
+zaed2
